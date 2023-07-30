@@ -1,2 +1,2 @@
 # python-mastery
-Course Python Matery
+Course Python Mastery
